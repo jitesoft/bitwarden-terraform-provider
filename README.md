@@ -11,7 +11,7 @@ occur due to this provider.
 
 ## Disclaimers
 
-This project is developed by BitWarden, Inc nor associated with BitWarden, Inc in more ways than
+This project is not developed by BitWarden, Inc nor associated with BitWarden, Inc in more ways than
 using their product.
 
 ## License and such
